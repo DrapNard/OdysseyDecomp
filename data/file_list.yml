@@ -1582,7 +1582,7 @@ Audio/CollectBgmPlayer.o:
   - offset: 0x008a04
     size: 4
     label: _ZN16CollectBgmPlayer7prepareEv
-    status: NotDecompiled
+    status: Matching
   - offset: 0x008a08
     size: 248
     label: _ZN16CollectBgmPlayer5startEPKcS1_
@@ -1695,7 +1695,7 @@ Audio/SePlayObjWithSave.o:
   - offset: 0x009840
     size: 4
     label: _ZN17SePlayObjWithSave4initERKN2al13ActorInitInfoE
-    status: NotDecompiled
+    status: Matching
   - offset: 0x009844
     size: 120
     label: _ZN17SePlayObjWithSave10receiveMsgEPKN2al9SensorMsgEPNS0_9HitSensorES5_
@@ -1721,7 +1721,7 @@ Audio/ShopBgmPlayer.o:
   - offset: 0x009bb4
     size: 4
     label: _ZN13ShopBgmPlayer8movementEv
-    status: NotDecompiled
+    status: Matching
   - offset: 0x009bb8
     size: 92
     label: _ZN13ShopBgmPlayer15exeWaitOnSwitchEv
@@ -2348,7 +2348,7 @@ Boss/BombTail/BombTailBomb.o:
   - offset: 0x0101bc
     size: 4
     label: _ZN12BombTailBomb20exeBeforeBattleStartEv
-    status: NotDecompiled
+    status: Matching
   - offset: 0x0101c0
     size: 264
     label: _ZN12BombTailBomb9exeAppearEv
@@ -2589,7 +2589,7 @@ Boss/BombTail/BombTailCap.o:
   - offset: 0x0122ac
     size: 4
     label: _ZN11BombTailCap20exeBeforeBattleStartEv
-    status: NotDecompiled
+    status: Matching
   - offset: 0x0122b0
     size: 72
     label: _ZN11BombTailCap7exeWaitEv
@@ -3005,7 +3005,7 @@ Boss/BombTail/BombTailTail.o:
   - offset: 0x014ff8
     size: 4
     label: _ZN26BombTailTailJointCalulator10calcBounceEPKN4sead8Matrix34IfEEf
-    status: NotDecompiled
+    status: Matching
   - offset: 0x014ffc
     size: 172
     label: _ZN26BombTailTailJointCalulator10calcReturnEv
@@ -3097,7 +3097,7 @@ Boss/BombTail/BombTailTail.o:
   - offset: 0x0164c4
     size: 4
     label: _ZN12BombTailTail16startResetAttackEv
-    status: NotDecompiled
+    status: Matching
   - offset: 0x0164c8
     size: 8
     label: _ZN12BombTailTail14onAnimDynamicsEv
@@ -3188,7 +3188,7 @@ Boss/BombTail/BombTailTailPartsModelUpdater.o:
   - offset: 0x016cfc
     size: 4
     label: _ZN29BombTailTailPartsModelUpdater11preCalcAnimEv
-    status: NotDecompiled
+    status: Matching
   - offset: 0x016d00
     size: 1076
     label: _ZN29BombTailTailPartsModelUpdater10updatePoseEv
@@ -3196,7 +3196,7 @@ Boss/BombTail/BombTailTailPartsModelUpdater.o:
   - offset: 0x017134
     size: 4
     label: _ZN29BombTailTailPartsModelUpdater14postEndClippedEv
-    status: NotDecompiled
+    status: Matching
   - offset: 0x017138
     size: 16
     label: _ZN29BombTailTailPartsModelUpdater12attackSensorEPN2al9HitSensorES2_
